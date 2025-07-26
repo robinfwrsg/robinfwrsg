@@ -1,4 +1,4 @@
-#Just another curious engineer trying to make data useful and interfaces tolerable.
+# Just another curious engineer trying to make data useful and interfaces tolerable.
 
 ## I write code, design systems, overthink UI.
 
@@ -56,4 +56,4 @@ If you're into collaboration, open source, or just feel like debating tabs vs sp
 
 ---
 
-###If you made it this far: yes, I do write documentation. Occasionally.
+### If you made it this far: yes, I do write documentation. Occasionally.
