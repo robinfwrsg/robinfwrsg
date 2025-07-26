@@ -1,4 +1,4 @@
-# Just another curious engineer trying to make data useful and interfaces tolerable.
+# A Developer who is trying to make data useful and interfaces tolerable.
 
 ## I write code, design systems, overthink UI.
 
