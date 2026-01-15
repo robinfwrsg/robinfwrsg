@@ -1,6 +1,6 @@
 # A Developer who is trying to make data useful and interfaces tolerable.
 
-## I write code, design systems, overthink UI.
+## I write code, design systems, and UI.
 
 ## Currently working on:
 
